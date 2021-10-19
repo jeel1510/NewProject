@@ -1,0 +1,1 @@
+menu_list_array = ["chicken Tanoori Pizza","Veg Superme Pizza","Paneer Tikka Pizza","Deluxe Veggie Pizza","Veg Extra 1:14"]
